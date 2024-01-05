@@ -1,0 +1,3 @@
+--Domain : Entities klasörü karþlýðýdýr.
+--Application : Business klasörü karþýlýðýdýr.
+Guid : harf ve rakamlardan oluþan daha kompleks id'ler oluþturmak için kullanýlýr. 
